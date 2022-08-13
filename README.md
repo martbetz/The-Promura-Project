@@ -8,9 +8,9 @@ The objective of **_The Promura Project_** is to collate as much information as 
 
 ---
 
-• **_Promura Ltd._** (USA) was registered between the 5th of January 1984 and the 26th of April 1990 as a supplier of domestic optical equipment and accessories (885812). **{[2](https://opencorporates.com/companies/us_ny/885812)}**
+• **_Promura Ltd._** (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812); it was dissolved on the 26th of April 1990. **{[2](https://opencorporates.com/companies/us_ny/885812)}**
 
-• **_Promura_** (USA) was registered between the 27th of May 1986 and the 30th of November 1992 as a trademark of **_Promura Ltd._** (1394708).  **{[3](https://alter.com/trademarks/promura-73542618)}**
+• **_Promura_** (USA) was registered on the 27th of May 1986 as a trademark of **_Promura Ltd._** (73542618); it was cancelled on the 30th of November 1992. **{[3](https://alter.com/trademarks/promura-73542618)}**
 
 ![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618)
 
