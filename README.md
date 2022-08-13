@@ -10,9 +10,12 @@ The objective of **_The Promura Project_** is to collate as much information as 
 
 **_Promura Ltd._** (USA) was registered between the 5th of January 1984 and the 26th of April 1990 as a supplier of domestic optical equipment and accessories (885812). **{[2](https://opencorporates.com/companies/us_ny/885812)}**
 
-**_Promura_** (USA) was registered between the 27th of May 1986 and the 30th of November 1992 as a trademark of **_Promura Ltd._** (1394708). **{[3](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4804:vzmm6r.2.1)}**
+**_Promura_** (USA) was registered between the 27th of May 1986 and the 30th of November 1992 as a trademark of **_Promura Ltd._** (1394708). **{[3](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4804:vzmm6r.2.1)}** **{[4](https://tmsearch.uspto.gov/bin/showfield?f=doc&state=4804:vzmm6r.2.1)}**
 
-**_Nissin Koki Co. Ltd._** (JPN) is believed to have been the manufacturer of both the the **_Auto-Promura 28mm C.P. Hi-Lux MC_** and the **_Auto-Promura 20mm C.P. Hi-Lux MC_**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
+
+
+
+**_Nissin Koki Co. Ltd._** (JPN) is believed to have been the manufacturer of both the the **_Auto-Promura 28mm C.P. Hi-Lux MC_** and the **_Auto-Promura 20mm C.P. Hi-Lux MC_**.  **{[5](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[6](http://www.zussin.com.tw/eng/indexe1.htm)}**
 
 ---
 
