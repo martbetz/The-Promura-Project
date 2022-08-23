@@ -2,7 +2,7 @@
 
 ![promura-project](https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png)
 
-The objective of **The Promura Project** is to collate as much information as possible about two very obscure and rare camera lenses: the **_Auto-Promura 28mm C.P. Hi-Lux MC_** and the **_Auto-Promura 20mm C.P. Hi-Lux MC_**. The project is open to contributions.
+The objective of **The Promura Project** is to collate as much information as possible about two very obscure and rare camera lenses: the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**. The project is open to contributions.
 **{[1](https://github.com/martbetz/thepromuraproject/blob/bd499c30be6117b50055162727b328cac4696ae9/CONTRIBUTE.md)}**
 
 
@@ -14,11 +14,11 @@ The objective of **The Promura Project** is to collate as much information as po
 
 ![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618)
 
-• **Nissin Koki Co. Ltd.** (JPN) is believed to have been the manufacturer of both the the **_Auto-Promura 28mm C.P. Hi-Lux MC_** and the **_Auto-Promura 20mm C.P. Hi-Lux MC_**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
+• **Nissin Koki Co. Ltd.** (JPN) is believed to have been the manufacturer of both the the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
 
 ---
 
-###  Identified _Auto-Promura 28mm C.P. Hi-Lux MC_ Lenses ###
+###  Identified **Auto-Promura 28mm C.P. Hi-Lux MC** Lenses ###
 
 |SERIAL|MOUNT|COMMENTS|LOCALE |
 |------------|-------------|---------------------|----|
@@ -30,7 +30,8 @@ The objective of **The Promura Project** is to collate as much information as po
 |340614|Minolta (MD)|Details retrieved from [auction listing](https://picclick.com.au/Auto-Promura-28mm-F28-CP-Hi-Lux-MC-255523249838.html#&gid=1&pid=5)|🇦🇺 AUS|
 |354792|Canon (FD)|Details submitted by current owner|🇬🇧 GBR
 |358615|Minolta (MD)¹|Details retrieved from [auction listing](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/)|🇲🇾 MYS|
-### Identified  _Auto-Promura 20mm C.P. Hi-Lux MC_  Lenses ###
+
+### Identified  **Auto-Promura 20mm C.P. Hi-Lux MC**  Lenses ###
 
 |SERIAL|MOUNT|COMMENTS|LOCALE|
 |------------|-------------|---------------------|----|
