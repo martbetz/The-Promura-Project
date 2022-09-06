@@ -8,13 +8,15 @@ The objective of **The Promura Project** is to collate as much information as po
 
 ---
 
-• **Promura Ltd.** (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812); it was dissolved on the 26th of April 1990. **{[2](https://opencorporates.com/companies/us_ny/885812)}**
+### Supply & Manufacture ###
 
-• **Promura** (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618); it was cancelled on the 30th of November 1992. **{[3](https://alter.com/trademarks/promura-73542618)}**
+**Promura Ltd.** (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812); it was dissolved on the 26th of April 1990. **{[2](https://opencorporates.com/companies/us_ny/885812)}**
+
+**Promura** (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618); it was cancelled on the 30th of November 1992. **{[3](https://alter.com/trademarks/promura-73542618)}**
 
 ![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618)
 
-• **Nissin Koki Co. Ltd.** (JPN) is believed to have been the manufacturer of both the the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
+**Nissin Koki Co. Ltd.** (JPN) is believed to have been the manufacturer of both the the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
 
 ---
 
