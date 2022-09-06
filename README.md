@@ -33,6 +33,10 @@ The objective of **The Promura Project** is to collate as much information as po
 |354792|Canon (FD)|Details submitted by current owner|🇬🇧 GBR
 |358615|Minolta (MD)¹|Details retrieved from [auction listing](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/)|🇲🇾 MYS|
 
+¹ This information is currently unverified.
+
+---
+
 ### Identified  **Auto-Promura 20mm C.P. Hi-Lux MC**  Lenses ###
 
 |SERIAL|MOUNT|COMMENTS|LOCALE|
@@ -43,7 +47,7 @@ The objective of **The Promura Project** is to collate as much information as po
 |218493|Pentax (PK)|Details retrieved from [database listing](https://www.pentaxforums.com/userreviews/auto-promura-20mm-f2-8.html)¹|🇺🇸​ USA|
 
 
-¹ unverified
+¹ This information is currently unverified.
 
 
 
