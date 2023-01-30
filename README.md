@@ -24,7 +24,7 @@ The objective of **The Promura Project** is to collate as much information as po
 
 |SERIAL|MOUNT|COMMENTS|LOCALE |
 |------------|-------------|---------------------|----|
-|292593|UNKNOWN|Details retrieved from [auction listing](https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)²|🇦🇺 AUS|
+|292593|UNKNOWN|Details retrieved from [sale listing](https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)²|🇦🇺 AUS|
 |298996|Minolta (MD)¹|Details retrieved from [auction listing](https://www.ebay.ie/itm/371930419739?redirect=mobile)|🇬🇧 GBR|
 |307776|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
 |324487|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
