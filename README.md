@@ -30,7 +30,7 @@ The objective of **The Promura Project** is to collate as much information as po
 |324487|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
 |327698¹|Minolta (MD)¹|Details retrieved from [auction listing](https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
 |330260|Pentax (PK)|Details retrieved from [forum post](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html)|​🇺🇸​ USA|
-|333694|Pentax (PK)|Details retrieved from [auction listing](https://www.ebay.co.uk/itm/325824349109)|🇬🇧 UK|
+|333694|Pentax (PK)|Details retrieved from [auction listing](https://www.ebay.co.uk/itm/325824349109)|🇬🇧 GBR|
 |333772|Canon (FD)|Details retrieved from [auction listing](https://www.ebay.ie/itm/256013192939)|🇬🇧 GBR
 |340614|Minolta (MD)|Details retrieved from [auction listing](https://web.archive.org/web/20220810072006/https://picclick.com.au/Auto-Promura-28mm-F28-CP-Hi-Lux-MC-255523249838.html)|🇦🇺 AUS|
 |345305|Pentax (PK)¹|Details retrieved from [auction listing](https://aucview.aucfan.com/yahoo/d115575976/)|🇯🇵 JPN|
