@@ -5,7 +5,7 @@
 </p>
 
 <p>
-   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open to contributions. <b>{<a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">1</a>}</b>
+   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open to contributions.&nbsp;<b>{<a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">1</a>}</b>
 <p>
 
 ---
@@ -13,11 +13,11 @@
 <h3><center>Supply & Manufacture</center></h3>
 
 <p>
-   <b>Promura Ltd.</b> (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812). The company was dissolved on the 26th of April 1990. <b>{<a href="https://opencorporates.com/companies/us_ny/885812">2</a>}</b>
+   <b>Promura Ltd.</b> (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812). The company was dissolved on the 26th of April 1990.&nbsp;<b>{<a href="https://opencorporates.com/companies/us_ny/885812">2</a>}</b>
 </p>
 
 <p>
-   <b>Promura</b> (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992. <b>{<a href="https://alter.com/trademarks/promura-73542618">3</a>}</b>
+   <b>Promura</b> (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992.&nbsp;<b>{<a href="https://alter.com/trademarks/promura-73542618">3</a>}</b>
 </p>
 
 <p align="center" style="text-align:center; padding-top: 5px;">
@@ -29,8 +29,7 @@
 </p>
 
 <p>
-   <b>Nissin Koki Co. Ltd.</b> (JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.
-<b>{<a href="http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html">4</a>}</b> <b>{<a href="http://www.zussin.com.tw/eng/indexe1.htm">5</a>}</b>
+   <b>Nissin Koki Co. Ltd.</b> (JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.&nbsp;<b>{<a href="http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html">4</a>}</b>&nbsp;<b>{<a href="http://www.zussin.com.tw/eng/indexe1.htm">5</a>}</b>
 </p>
 
 ---
