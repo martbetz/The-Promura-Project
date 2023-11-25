@@ -44,7 +44,7 @@
 |298996|Minolta (MD)¹|Details retrieved from [auction listing](https://www.ebay.ie/itm/371930419739?redirect=mobile)|🇬🇧 GBR|
 |307776|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
 |324487|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
-|327698¹|Minolta (MD)¹|Details retrieved from [auction listing](https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
+|327698¹|Minolta (MD)¹|Details retrieved from [auction listing](https://web.archive.org/web/20220810071316/https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
 |330260|Pentax (PK)|Details retrieved from [forum post](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html)|​🇺🇸​ USA|
 |333694|Pentax (PK)|Details retrieved from [auction listing](https://www.ebay.co.uk/itm/325824349109)|🇬🇧 GBR|
 |333772|Canon (FD)|Details retrieved from [auction listing](https://www.ebay.ie/itm/256013192939)|🇬🇧 GBR
@@ -73,5 +73,7 @@
 <!-- ORIGINAL LINKs 
 
 292593: (https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)
+
+327698: (https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)
 
 <!--|340614|Minolta (MD)|Details retrieved from [auction listing](https://picclick.com.au/Auto-Promura-28mm-F28-CP-Hi-Lux-MC-255523249838.html#&gid=1&pid=5)|🇦🇺 AUS|-->
