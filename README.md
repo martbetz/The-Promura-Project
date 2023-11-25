@@ -70,7 +70,7 @@
 
 ¹ This information is currently unverified.
 <br>
-² Link lost
+² The link to this content has been lost.
 
 <!-- ORIGINAL LINKs 
 
