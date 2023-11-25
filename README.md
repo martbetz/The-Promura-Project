@@ -69,6 +69,7 @@
 |218493|Pentax (PK)|Details retrieved from [database listing](https://www.pentaxforums.com/userreviews/auto-promura-20mm-f2-8.html)¹|🇺🇸​ USA|
 
 ¹ This information is currently unverified.
+<br>
 ² Link lost
 
 <!-- ORIGINAL LINKs 
