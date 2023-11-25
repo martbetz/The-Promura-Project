@@ -1,37 +1,57 @@
 <h1><center> The Promura Project </center></h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
+   <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
 </p>
 
 <p>
-The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open to contributions. <b>{<a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">1</a>}</b>
-</p>
+   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open to contributions. <b>{<a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">1</a>}</b>
+<p>
 
 ---
 
 <h3><center>Supply & Manufacture</center></h3>
 
 <p>
-<b>Promura Ltd.</b> (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812). The company was dissolved on the 26th of April 1990. <b>{<a href="https://opencorporates.com/companies/us_ny/885812">2</a>}</b>
+   <b>Promura Ltd.</b> (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812). The company was dissolved on the 26th of April 1990. <b>{<a href="https://opencorporates.com/companies/us_ny/885812">2</a>}</b>
 </p>
 
 <p>
-<b>Promura</b> (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992. <b>{<a href="https://alter.com/trademarks/promura-73542618">3</a>}</b>
+   <b>Promura</b> (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992. <b>{<a href="https://alter.com/trademarks/promura-73542618">3</a>}</b>
 </p>
 
-<p align="center">
-<img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
-<br>
+<p align="center" style="text-align:center; padding-top: 5px;">
+  <font size=" 2">
+      <img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
+      <br>
 © POMURA LTD
+   </font>
 </p>
 
 <p>
-<b>Nissin Koki Co. Ltd.</b> (JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.
+   <b>Nissin Koki Co. Ltd.</b> (JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.
 <b>{<a href="http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html">4</a>}</b> <b>{<a href="http://www.zussin.com.tw/eng/indexe1.htm">5</a>}</b>
 </p>
 
 ---
+
+<!-- <p>
+<table>
+  <tr>
+    <th>SERIAL</th>
+    <th>MOUNT</th>
+    <th>COMMENTS</th>
+    <th>LOCALE</th>
+  </tr>
+  <tr>
+    <td>292593</td>
+    <td>UNKNOWN</td>
+    <td>Details retrieved from <a href="https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619">sale listing</a>
+     <td>🇦🇺 AUS</td>
+     </td>
+  </tr>
+</table>
+</p> -->
 
 <center>
 
