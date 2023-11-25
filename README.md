@@ -16,6 +16,15 @@ The objective of **The Promura Project** is to collate as much information as po
 
 ![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618)
 
+<a href="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
+<img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618" style="padding-top: 15px;" class="align-center" alt="PROMURA trademark"></a>
+</center>
+<p style="text-align:center; padding-top: 5px;">
+  <font size=" 2">
+ <a href="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">© POMURA LTD</a>
+  </font>
+</p>
+
 **Nissin Koki Co. Ltd.** (JPN) is believed to have been the manufacturer of both the the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
 
 ---
