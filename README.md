@@ -1,35 +1,59 @@
-# The Promura Project #
+<h1><center> The Promura Project </center></h1>
 
-![promura-project](https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png)
-
-The objective of **The Promura Project** is to collate as much information as possible about two very obscure and rare camera lenses: the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**. The project is open to contributions.
-**{[1](https://martbetz.github.io/photography/2022/08/21/the-promura-project.html)}**
-
-
----
-
-### Supply & Manufacture ###
-
-**Promura Ltd.** (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812). The company was dissolved on the 26th of April 1990. **{[2](https://opencorporates.com/companies/us_ny/885812)}**
-
-**Promura** (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992. **{[3](https://alter.com/trademarks/promura-73542618)}**
-
-<!-- ![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618) -->
-
-<a href="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
-<img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618" style="padding-top: 15px;" class="align-center" alt="PROMURA trademark"></a>
-</center>
-<p style="text-align:center; padding-top: 5px;">
-  <font size=" 2">
- <a href="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">© POMURA LTD</a>
-  </font>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
 </p>
 
-**Nissin Koki Co. Ltd.** (JPN) is believed to have been the manufacturer of both the the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**.  **{[4](http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html)}** **{[5](http://www.zussin.com.tw/eng/indexe1.htm)}**
+<p>
+The objective of **The Promura Project** is to collate as much information as possible about two very obscure and rare camera lenses: the **Auto-Promura 28mm C.P. Hi-Lux MC** and the **Auto-Promura 20mm C.P. Hi-Lux MC**. The project is open to contributions. <b>{<a href="https://martbetz.github.io/photography/2022/08/21/the-promura-project.html">1</a>}</b>
+<p>
 
 ---
 
-###  Identified **Auto-Promura 28mm C.P. Hi-Lux MC** Lenses ###
+<h3><center>Supply & Manufacture</center></h3>
+
+<p>
+<b>Promura Ltd.</b> (USA) was registered on the 5th of January 1984 as a supplier of domestic optical equipment and accessories (885812). The company was dissolved on the 26th of April 1990. <b>{<a href="https://opencorporates.com/companies/us_ny/885812">2</a>}</b>
+</p>
+
+<p>
+<b>Promura</b> (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992. <b>{<a href="https://alter.com/trademarks/promura-73542618">3</a>}</b>
+</p>
+
+<p align="center">
+<img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
+<br>
+© POMURA LTD
+</p>
+
+<p>
+<b>Nissin Koki Co. Ltd.</b> (JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.
+<b>{<a href="http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html">4</a>}</b> <b>{<a href="http://www.zussin.com.tw/eng/indexe1.htm">5</a>}</b>
+</p>
+
+---
+
+<!-- <p>
+<table>
+  <tr>
+    <th>SERIAL</th>
+    <th>MOUNT</th>
+    <th>COMMENTS</th>
+    <th>LOCALE</th>
+  </tr>
+  <tr>
+    <td>292593</td>
+    <td>UNKNOWN</td>
+    <td>Details retrieved from <a href="https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619">sale listing</a>
+     <td>🇦🇺 AUS</td>
+     </td>
+  </tr>
+</table>
+</p> -->
+
+<center>
+
+<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses</h3>
 
 |SERIAL|MOUNT|COMMENTS|LOCALE |
 |------------|-------------|---------------------|----|
@@ -52,7 +76,7 @@ The objective of **The Promura Project** is to collate as much information as po
 
 ---
 
-### Identified  **Auto-Promura 20mm C.P. Hi-Lux MC**  Lenses ###
+<h3>Identified <b>Auto-Promura 20mm C.P. Hi-Lux MC</b> Lenses</h3>
 
 |SERIAL|MOUNT|COMMENTS|LOCALE|
 |------------|-------------|---------------------|----|
@@ -60,7 +84,6 @@ The objective of **The Promura Project** is to collate as much information as po
 |217049|Canon (FD)|Details retrieved from [auction listing](https://www.ebay.com/itm/Rare-Auto-Promura-20mm-2-8-C-P-Hi-Lux-MC-Wide-Prime-Lens-Canon-FD-Mount-Vintage/255492057456?pageci=111dc5be-4fe4-49ce-a256-27b76adadd2c&redirect=mobile)|🇺🇸 USA|
 |218359|Nikon (NIK)¹|Details retrieved from [auction listing](https://www.ebay.com/itm/225029309193?hash=item3464cac309%3Ag%3AJWAAAOSwvCpiQciP&pageci=abab0ae3-b83e-4de1-a1c7-c4ec7a1b219f&redirect=mobile&nma=true&si=eydUzQEI41jJjxLeOiwPTHmVEw8%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)|🇺🇸​ USA|
 |218493|Pentax (PK)|Details retrieved from [database listing](https://www.pentaxforums.com/userreviews/auto-promura-20mm-f2-8.html)¹|🇺🇸​ USA|
-
 
 ¹ This information is currently unverified.
 
