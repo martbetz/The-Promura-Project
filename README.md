@@ -40,7 +40,7 @@
 <h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses</h3>
 
 |SERIAL|MOUNT|COMMENTS|LOCALE |
-|------------|-------------|---------------------|----|
+|------------|:-------------:|---------------------|----|
 |292593|UNKNOWN|Details retrieved from [sale listing](https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)|🇦🇺 AUS|
 |298996|Minolta (MD)¹|Details retrieved from [auction listing](https://www.ebay.ie/itm/371930419739?redirect=mobile)|🇬🇧 GBR|
 |307776|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
@@ -63,7 +63,7 @@
 <h3>Identified <b>Auto-Promura 20mm C.P. Hi-Lux MC</b> Lenses</h3>
 
 |SERIAL|MOUNT|COMMENTS|LOCALE|
-|------------|-------------|---------------------|----|
+|------------|:-------------:|---------------------|----|
 |213172|Pentax (PK)<sup>¹|Details retrieved from [sales listing](https://vintagecameradeals.co.za/Auto-PROMURA-C.P-Hi-Lux-MC-2.8-f=20mm-wide-angle-SLR-film-camera-lens-2.8-20mm-MINT-box)|🇿🇦 ZAF|
 |217049|Canon (FD)|Details retrieved from [auction listing](https://www.ebay.com/itm/Rare-Auto-Promura-20mm-2-8-C-P-Hi-Lux-MC-Wide-Prime-Lens-Canon-FD-Mount-Vintage/255492057456?pageci=111dc5be-4fe4-49ce-a256-27b76adadd2c&redirect=mobile)|🇺🇸 USA|
 |218359|Nikon (NIK)¹|Details retrieved from [auction listing](https://www.ebay.com/itm/225029309193?hash=item3464cac309%3Ag%3AJWAAAOSwvCpiQciP&pageci=abab0ae3-b83e-4de1-a1c7-c4ec7a1b219f&redirect=mobile&nma=true&si=eydUzQEI41jJjxLeOiwPTHmVEw8%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)|🇺🇸​ USA|
