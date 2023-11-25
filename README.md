@@ -33,24 +33,6 @@ The objective of **The Promura Project** is to collate as much information as po
 
 ---
 
-<!-- <p>
-<table>
-  <tr>
-    <th>SERIAL</th>
-    <th>MOUNT</th>
-    <th>COMMENTS</th>
-    <th>LOCALE</th>
-  </tr>
-  <tr>
-    <td>292593</td>
-    <td>UNKNOWN</td>
-    <td>Details retrieved from <a href="https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619">sale listing</a>
-     <td>🇦🇺 AUS</td>
-     </td>
-  </tr>
-</table>
-</p> -->
-
 <center>
 
 <h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses</h3>
