@@ -14,7 +14,7 @@ The objective of **The Promura Project** is to collate as much information as po
 
 **Promura** (USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992. **{[3](https://alter.com/trademarks/promura-73542618)}**
 
-![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618)
+<!-- ![Promura Logo](https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618) -->
 
 <a href="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
 <img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618" style="padding-top: 15px;" class="align-center" alt="PROMURA trademark"></a>
