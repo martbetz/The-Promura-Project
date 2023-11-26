@@ -24,7 +24,7 @@
   <font size=" 2">
       <img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
       <br>
-© PROMURA LTD
+© <a href="https://trademarks.justia.com/735/42/promura-73542618.html">PROMURA LTD</a>
    </font>
 </p>
 
