@@ -53,7 +53,7 @@
 |347323|Praktica (M42)¹|Details retrieved from [auction&nbsp;listing](https://web.archive.org/web/20230407164655/https://www.ebay.com/itm/304797525070?hash=item46f759244e%3Ag%3A05IAAOSwxv5j42JR&amdata=enc%3AAQAHAAAAwPjknE8+cu559Q5xyBdqBIDGks+9Jqkfqeaz4fXX%2FLqk+LqqBpX17qc03MJq+tTcXzY1TAUR2+AjBQB34OmUNwUbamDxsxkVpL8T9v9UCaDCqdPrzRA93SSPY9h%2FO%2F349fwDfX3DfKISlLKFKsi1DNXG3injSPqtnw9+ZSjt52t8iWc549AyYho0DnlUIfz6yrWmctmQHHGKphmHyOVCMchHRNosEcMMFs1M2KorkeI%2FA1K9l79O8eGYttbDefGfqg%3D%3D%7Ctkp%3ABk9SR_Lo1sjrYQ&pageci=a960853f-49d1-4a2e-a5fc-51529b26bf5d&redirect=mobile&nma=true&si=h5bn9fGeH2dItYlKBEbXEG5fTdc%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)|🇦🇺 AUS|
 |351394|Petax (PK)|Details retrieved from [sale&nbsp;listing](https://soperfectimages.co.uk/camerasforsale/pentax/auto-promura-28mm-f28-pk-fit-351394/)|🇬🇧 GBR
 |354792|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
-|356577|Olympus (OM)¹|Details retrieved from [sales&nbsp;listing](https://kamerastore.com/products/promura-28mm-f2-8-c-p-hi-lux-auto-mc-olympus-om-1)|🇲🇫 FIN|
+|356577|Olympus (OM)¹|Details retrieved from [sales&nbsp;listing](https://kamerastore.com/products/promura-28mm-f2-8-c-p-hi-lux-auto-mc-olympus-om-1)|🇫🇮 FIN|
 |358615|Minolta (MD)¹|Details retrieved from [auction&nbsp;listing](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/)|🇲🇾 MYS|
 
 ¹ This information is currently unverified.
