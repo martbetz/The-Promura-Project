@@ -24,7 +24,7 @@
   <font size=" 2">
       <img src="https://supertrademarks.marcaria.com/uspto-api/logo?number=73542618">
       <br>
-© POMURA LTD
+© PROMURA LTD
    </font>
 </p>
 
