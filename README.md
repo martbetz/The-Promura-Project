@@ -38,14 +38,14 @@
 
 <h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses</h3>
 
-|SERIAL|MOUNT|COMMENTS|LOCALE |
+|SERIAL|MOUNT|REFERENCE|LOCALE |
 |------------|:-------------:|---------------------|----|
 |292593|UNKNOWN|Details retrieved from [sale listing](https://web.archive.org/web/20220829143938/https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)|🇦🇺 AUS|
 |298996|Minolta (MD)¹|Details retrieved from [auction listing](https://www.ebay.ie/itm/371930419739?redirect=mobile)|🇬🇧 GBR|
 |307776|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
 |324487|Canon (FD)|Details submitted by current owner|🇬🇧 GBR|
 |327698¹|Minolta (MD)¹|Details retrieved from [auction listing](https://web.archive.org/web/20220810071316/https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
-|330260|Pentax (PK)|Details retrieved from [forum post](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html) <br>Details retrieved from [database listing](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)|​🇺🇸​ USA|
+|330260|Pentax (PK)|Details retrieved from [database listing](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)|​🇺🇸​ USA|
 |333694|Pentax (PK)|Details retrieved from [auction listing](https://www.ebay.co.uk/itm/325824349109)|🇬🇧 GBR|
 |333772|Canon (FD)|Details retrieved from [auction listing](https://www.ebay.ie/itm/256013192939)|🇬🇧 GBR
 |340614|Minolta (MD)|Details retrieved from [auction listing](https://web.archive.org/web/20220810072006/https://picclick.com.au/Auto-Promura-28mm-F28-CP-Hi-Lux-MC-255523249838.html)|🇦🇺 AUS|
@@ -61,7 +61,7 @@
 
 <h3>Identified <b>Auto-Promura 20mm C.P. Hi-Lux MC</b> Lenses</h3>
 
-|SERIAL|MOUNT|COMMENTS|LOCALE|
+|SERIAL|MOUNT|REFERENCE|LOCALE|
 |------------|:-------------:|---------------------|----|
 |213172|Pentax (PK)<sup>¹|Details retrieved from [sales listing](https://vintagecameradeals.co.za/Auto-PROMURA-C.P-Hi-Lux-MC-2.8-f=20mm-wide-angle-SLR-film-camera-lens-2.8-20mm-MINT-box)|🇿🇦 ZAF|
 |217049|Canon (FD)|Details retrieved from auction listing²|🇺🇸 USA|
@@ -72,7 +72,10 @@
 <br>
 ² The link to this content has been lost.
 
-<!-- ORIGINAL LINKs 
+<!--
+
+ORIGINAL LINKS
+--------------
 
 292593: (https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)
 
@@ -86,7 +89,12 @@
 
 218359: (https://www.ebay.com/itm/225029309193?hash=item3464cac309%3Ag%3AJWAAAOSwvCpiQciP&pageci=abab0ae3-b83e-4de1-a1c7-c4ec7a1b219f&redirect=mobile&nma=true&si=eydUzQEI41jJjxLeOiwPTHmVEw8%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)
 
-ALTERNATIVE LINKS 
 
-(https://lens-club.ru/lenses/item/c_6743.html)
+ALTERNATIVE LINKS
+-----------------
+
+330260: (https://lens-club.ru/lenses/item/c_6743.html)
 (https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+(https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html)
+
+-->
