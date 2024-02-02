@@ -10,7 +10,9 @@
 
 ---
 
-<b>Please note: this project is an excersise in ongoing factual research and data collection; as such, the following information should only be considered as accurate as the latest conclusions suggest. This project is soley intended for reference and is a continual work-in-progress. Please raise an issue for any proposed corrections or a pull request for any proposed contributions.</b>
+<b>Please note: this project is an excersise in ongoing factual research and data collection; as such, the following information should only be considered as accurate as the latest conclusions suggest. 
+
+This project is soley intended for reference and is a continual work-in-progress. Please raise an issue for any proposed corrections or a pull request for any proposed contributions.</b>
 
 ---
 
