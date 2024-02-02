@@ -10,7 +10,7 @@
 
 ---
 
-<b><i>Please note: this project is a continual work-in-progress and is soley indended for reference only. The following information has been compiled from a variety of online sources; while I presume all facts to be accurate, I provide no guarantees in this regard.</b></i>
+<b><i>Please note: this project is a continual work-in-progress and is soley indended for reference only. The following information has been compiled from a variety of online sources; while I presume all facts to be accurate, I provide no guarantee in this regard.</b></i>
 
 ---
 
