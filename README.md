@@ -10,7 +10,7 @@
 
 ---
 
-<b><i>Please note: this project is a continual work-in-progress and is soley indended for reference only. The following information has been compiled from a variety of online sources; while I presume all facts to be accurate, I provide no guarantee in this regard.</b></i>
+<b><i>Please note: this project is an excersise in factual research and data collection. Needless to say, the following information should only be considered accurate within this limited context; no guarantees can be provided in this regard.</b></i> This project is soley intended for reference and is a continual work-in-progress.
 
 ---
 
