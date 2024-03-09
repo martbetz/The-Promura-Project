@@ -23,7 +23,7 @@ This project is soley intended for reference and is a continual work-in-progress
 </p>
 
 <p>
-   <b>Promura</b> (🇱🇷 USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992.&nbsp;<b>{<a href="https://alter.com/trademarks/promura-73542618">3</a>}</b>
+   <b>Promura</b> (🇱🇷 USA) was registered on the 27th of May 1986 as a trademark of Promura Ltd. (73542618). The trademark was cancelled on the 30th of November 1992.&nbsp;<b>{<a href="https://tsdr.uspto.gov/#caseNumber=73542618&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch">3</a>}</b>
 </p>
 
 <!-- <p align="center" style="text-align:center; padding-top: 5px;">
