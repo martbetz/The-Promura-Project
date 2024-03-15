@@ -63,6 +63,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |358615|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/)|🇲🇾 MYS|
 
 ¹ This information is currently unverified.
+<br>
 ² The link to this content has been lost.
 
 ---
