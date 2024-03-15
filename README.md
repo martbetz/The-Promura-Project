@@ -48,8 +48,8 @@ This project is soley intended for reference and is a continual work-in-progress
 |------|:----:|------|-------|
 |292593|UNKNOWN|Details retrieved from [sale listing](https://web.archive.org/web/20220829143938/https://www.gumtree.com.au/s-ad/albion/non-digital-cameras/auto-promura-c-p-hi-lux-1-2-8-f-28mm-wide-angle-camera-lens-80/1300197619)|🇦🇺 AUS|
 |298996|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://www.ebay.ie/itm/371930419739?redirect=mobile)|🇬🇧 GBR|
-|307776|Canon&nbsp;(FD)|Details submitted by current owner|🇬🇧 GBR|
-|324487|Canon&nbsp;(FD)|Details submitted by current owner|🇬🇧 GBR|
+|307776|Canon&nbsp;(FD)|Details retrieved from auction listing²|🇬🇧 GBR|
+|324487|Canon&nbsp;(FD)|Details retrieved from aution listing²|🇬🇧 GBR|
 |327698¹|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://web.archive.org/web/20220810071316/https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|Details retrieved from [database&nbsp;listing](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)|​🇺🇸​ USA|
 |333694|Pentax&nbsp;(PK)|Details retrieved from [auction&nbsp;listing](https://www.ebay.co.uk/itm/325824349109)|🇬🇧 GBR|
@@ -58,7 +58,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |345305|Pentax&nbsp;(PK)¹|Details retrieved from [auction&nbsp;listing](https://aucview.aucfan.com/yahoo/d115575976/)|🇯🇵 JPN|
 |347323|Praktica&nbsp;(M42)¹|Details retrieved from [auction&nbsp;listing](https://web.archive.org/web/20230407164655/https://www.ebay.com/itm/304797525070?hash=item46f759244e%3Ag%3A05IAAOSwxv5j42JR&amdata=enc%3AAQAHAAAAwPjknE8+cu559Q5xyBdqBIDGks+9Jqkfqeaz4fXX%2FLqk+LqqBpX17qc03MJq+tTcXzY1TAUR2+AjBQB34OmUNwUbamDxsxkVpL8T9v9UCaDCqdPrzRA93SSPY9h%2FO%2F349fwDfX3DfKISlLKFKsi1DNXG3injSPqtnw9+ZSjt52t8iWc549AyYho0DnlUIfz6yrWmctmQHHGKphmHyOVCMchHRNosEcMMFs1M2KorkeI%2FA1K9l79O8eGYttbDefGfqg%3D%3D%7Ctkp%3ABk9SR_Lo1sjrYQ&pageci=a960853f-49d1-4a2e-a5fc-51529b26bf5d&redirect=mobile&nma=true&si=h5bn9fGeH2dItYlKBEbXEG5fTdc%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557)|🇦🇺 AUS|
 |351394|Petax&nbsp;(PK)|Details retrieved from [sale&nbsp;listing](https://soperfectimages.co.uk/camerasforsale/pentax/auto-promura-28mm-f28-pk-fit-351394/)|🇬🇧 GBR
-|354792|Canon&nbsp;(FD)|Details submitted by current owner|🇬🇧 GBR|
+|354792|Canon&nbsp;(FD)|Details retrieved from auction listing²|🇬🇧 GBR|
 |356577|Olympus&nbsp;(OM)¹|Details retrieved from [sales&nbsp;listing](https://kamerastore.com/products/promura-28mm-f2-8-c-p-hi-lux-auto-mc-olympus-om-1)|🇫🇮 FIN|
 |358615|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/)|🇲🇾 MYS|
 
