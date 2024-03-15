@@ -106,4 +106,4 @@ ALTERNATIVE LINKS
 
 -->
 
-<!--|307844|Cantax/Yashica (C/Y)¹|Details retrieved from [auction listing](https://www.ebay.co.uk/itm/296251471229)|🇬🇧 GBR|-->
+<!--|307844|Cantax/Yashica (C/Y)¹|Details retrieved from [auction&nbsp;listing](https://www.ebay.co.uk/itm/296251471229)|🇬🇧 GBR|-->
