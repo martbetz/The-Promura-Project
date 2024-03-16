@@ -42,7 +42,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 <center>
 
-<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses</h3>
+<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses (15)</h3>
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:----:|------|-------|
@@ -68,7 +68,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 ---
 
-<h3>Identified <b>Auto-Promura 20mm C.P. Hi-Lux MC</b> Lenses</h3>
+<h3>Identified <b>Auto-Promura 20mm C.P. Hi-Lux MC</b> Lenses (4)</h3>
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:---:|------|------|
