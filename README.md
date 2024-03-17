@@ -50,7 +50,6 @@ This project is soley intended for reference and is a continual work-in-progress
 |298996|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://www.ebay.ie/itm/371930419739?redirect=mobile)|🇬🇧 GBR|
 |307776|Canon&nbsp;(FD)|Details retrieved from auction listing²|🇬🇧 GBR|
 |307844|Cantax/Yashica&nbsp;(C/Y)¹|Details retrieved from [auction&nbsp;listing](https://www.ebay.co.uk/itm/296251471229)|🇬🇧 GBR|
-
 |324487|Canon&nbsp;(FD)|Details retrieved from aution listing²|🇬🇧 GBR|
 |327698¹|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://web.archive.org/web/20220810071316/https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|Details retrieved from [database&nbsp;listing](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)|​🇺🇸​ USA|
