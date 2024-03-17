@@ -107,5 +107,7 @@ ALTERNATIVE LINKS
 (https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 (https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html)
 
+307844: (https://www.ebay.co.uk/itm/305436790236)https://www.ebay.co.uk/itm/305436790236)
+
 -->
 
