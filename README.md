@@ -1,4 +1,4 @@
-<h1><center></center>Promura Project</center></h1>
+<h1><center></center>The Promura Project</center></h1>
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
