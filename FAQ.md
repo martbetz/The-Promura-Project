@@ -1,4 +1,4 @@
-# FAQs #
+# FAQ #
 
 ### Do you own either of these lenses? ###
 
