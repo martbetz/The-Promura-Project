@@ -6,4 +6,4 @@ No. I used to own a 28mm, but it fell into the sea a few years back (it's yours,
 
 ### Why did you start this project? ###
 
-I fancied playing detective. 😉 When looking for another copy, I relised just how uncommon they were; I was also surprised by the lack of historical data. The 28mm has an excellent reputation, so this humble project was born. During my research, I also came across the 20mm (which seems to be even scarcer!), so I included this as well.
+When looking for another copy, I relised just how uncommon they were; I was also surprised by the lack of historical data. The 28mm has an excellent reputation, so this humble project was born. During my research, I also came across the 20mm (which seems to be even scarcer!), so I included this as well.
