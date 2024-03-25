@@ -2,7 +2,7 @@
 
 ### Do you own either of these lenses? ###
 
-No. I used to own a 28mm, but it fell into the sea a few years back (it's yours, if you can find it; it's down there somewhere, about a mile off the coast of Ireland 😉). I didn't keep note of the serial number, unfortunately, so it isn't included in the list. 😞
+No. I used to own a 28mm, but it fell into the sea a few years back (it's yours, if you can find it; it's down there somewhere, about a mile off the coast of Ireland 😉). I didn't keep note of the serial number, unfortunately, so it isn't included in the list (so, if you do dive down and get, be sure to send me the details 😉).
 
 ### Why did you start this project? ###
 
