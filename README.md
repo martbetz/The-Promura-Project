@@ -53,6 +53,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |324487|Canon&nbsp;(FD)|Details retrieved from aution listing²|🇬🇧 GBR|
 |327698¹|Minolta&nbsp;(MD)¹|Details retrieved from [auction&nbsp;listing](https://web.archive.org/web/20220810071316/https://www.ebay.ie/itm/AUTO-PROMURA-C-P-Hi-Lux-MC-1-2-8-28mm-SLR-Camera-lens-Excellent-Condition-/152388931047?nav=SEARCH&redirect=mobile)|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|Details retrieved from [database&nbsp;listing](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)|​🇺🇸​ USA|
+|333644|Konica&nbsp;(K/AR)¹|Details retrieved from [auction&nbsp;listing](https://www.ebay.ca/itm/276431953969)|🇺🇸​ USA|
 |333694|Pentax&nbsp;(PK)|Details retrieved from [auction&nbsp;listing](https://www.ebay.co.uk/itm/325824349109)|🇬🇧 GBR|
 |333772|Canon&nbsp;(FD)|Details retrieved from [auction&nbsp;listing](https://www.ebay.ie/itm/256013192939)|🇬🇧 GBR
 |340614|Minolta&nbsp;(MD)|Details retrieved from [auction&nbsp;listing](https://web.archive.org/web/20220810072006/https://picclick.com.au/Auto-Promura-28mm-F28-CP-Hi-Lux-MC-255523249838.html)|🇦🇺 AUS|
