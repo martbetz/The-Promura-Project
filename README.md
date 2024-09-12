@@ -30,7 +30,7 @@ This project is soley intended for reference and is a continual work-in-progress
 </p>
 
 <p>
-   <b>Nissin Koki Co. Ltd.</b> (🇯🇵 JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.&nbsp;<b>(<a href="http://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html">3</a>)</b>
+   <b>Nissin Koki Co. Ltd.</b> (🇯🇵 JPN) is believed to have been the manufacturer of both the the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>.&nbsp;<b>(<a href="https://web.archive.org/web/20021001122829/medfmt.8k.com/third/mfg.html">3</a>)</b>
 </p>
 
 ---
