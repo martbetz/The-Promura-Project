@@ -66,6 +66,8 @@ This project is soley intended for reference and is a continual work-in-progress
 <br>
 ² Listed as damaged (fungus).
 
+[Auto-Promura 28mm C.P. Hi-Lux MC reviews](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html)
+
 ---
 
 <center>
