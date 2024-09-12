@@ -11,7 +11,7 @@ In short, as much information as you're willing and able to share; however, plea
 
 <h4>Why are there no links to some of the original sources?</h4>
 
-Many of the sources are auction and sale listings, and they often tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions; however, I still record the important stuff within the detailed summaries (doing so takes time, though, so I throw myself down on your patience).
+Many of the sources are auction and sale listings, and they often tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions. Having said all this, I still record the important stuff within the detailed summaries (doing so takes time, though, so I throw myself down on your patience).
 
 <h4>Fair enough, but why are there no photos?</h4>
 
