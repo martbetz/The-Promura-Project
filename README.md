@@ -7,13 +7,13 @@
 </p>
 
 <p>
-   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open for collaboration.
+   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. Please reference the project <a href="https://github.com/martbetz/The-Promura-Project/edit/main/README.md">FAQs</a>.
 
 ---
 
 <b>This project is an excersise in ongoing factual research and data collection; as such, the following information should only be considered as accurate as the latest conclusions suggest. 
 
-This project is soley intended for reference and is a continual work-in-progress. Please raise an issue for any proposed corrections or a pull request for any proposed contributions.</b>
+This project is soley intended for reference and is a continual work-in-progress. Please raise an issue for any proposed corrections and a pull request for any proposed contributions.</b>
 
 ---
 
