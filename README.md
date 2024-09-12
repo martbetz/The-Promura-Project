@@ -39,7 +39,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:----:|------|-------|
-|292593|UNKNOWN|Details retrieved from sale listing|🇦🇺 AUS|
+|292593|UNKNOWN|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/292593.md) retrieved from sale listing|🇦🇺 AUS|
 |298996|Minolta&nbsp;(MD)¹|Details retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |307776|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
 |307844|Cantax/Yashica&nbsp;(C/Y)¹|Details retrieved from auction&nbsp;listing|🇬🇧 GBR|
