@@ -13,6 +13,10 @@ In short, as much information as you're willing and able to share; however, plea
 
 Many of the sources are auction and sale listings, and they tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions. As an alternative, then, I try to present all the important stuff using detailed and accurate summaries (doing so takes time, though, so I throw myself down on your patience).
 
+<h4>Fair enough, but why are there no photos?</h4>
+
+If I had the opportunity to take some, I would. I don't hold on to anyone else's because I don't own the copyright.
+
 <!--- <h4>Do you own either of these lenses?</h4>
 
 No. I used to own a 28mm, but it fell into the sea a few years back (it’s yours, if you can find it; it’s down there somewhere, about a mile off the coast of Ireland 😉). I didn’t keep note of the serial number, unfortunately, so it isn’t included in the list (so, if you do dive down and grab it, be sure to send me the details 😉).
