@@ -1,7 +1,8 @@
 <h3>Project FAQs</h3>
+
 <h4>I would like to add a lens to the database. What do you need?</h4>
 
-In short, as much information as you're willing to share; however, please be sure to include the following as a minimum requirement:
+In short, as much information as you're willing and able to share; however, please consider the following as an absolute minimum requirement:
 
 - a photo of the front of the lens that clearly displays the full description and serial number engraved on the faceplate
 - a photo of the rear of the lens that clearly evidences the mount type
