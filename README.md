@@ -56,7 +56,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |354792|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
 |356577|Olympus&nbsp;(OM)¹|Details retrieved from sales&nbsp;listing|🇫🇮 FIN|
 |357832|Praktica&nbsp;(M42)|Details retrieved from auction&nbsp;listing²|🇬🇧 GBR|
-|358615|Minolta&nbsp;(MD)¹|Details retrieved from auction&nbsp;listing|🇲🇾 MYS|
+|358615|Minolta&nbsp;(MD)¹|[Details](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/) retrieved from auction&nbsp;listing|🇲🇾 MYS|
 
 </center>
 
