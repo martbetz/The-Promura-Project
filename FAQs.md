@@ -1,5 +1,7 @@
 <h3>Project FAQs</h3>
 
+*** THIS DOCUMENT IS (STILL) A WORK IN PROGRESS ***
+
 <h4>I would like to add a lens to the database. What do you need?</h4>
 
 In short, as much information as you're willing and able to share; however, please consider the following as an absolute minimum requirement:
@@ -10,12 +12,6 @@ In short, as much information as you're willing and able to share; however, plea
 <h4>Why are there so few links to original sources?</h4>
 
 Many of the sources are auction and sale listings, and they tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions. As a next-best solution, then, I try to present all the important bits using detailed and accurate summaries.
-
-<br>
-<center>
-*** THIS DOCUMENT IS A WORK IN PROGRESS ***
-</center>
-
 
 <!--- <h4>Do you own either of these lenses?</h4>
 
