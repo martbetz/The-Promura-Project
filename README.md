@@ -13,6 +13,8 @@
 
 <b>This project is an excersise in ongoing factual research and data collection; as such, the following information should only be considered as accurate as the latest conclusions present. 
 
+Where possible, links are provided to original sources; where original sources are no longer available (whether in full or in part), alternative detailed summaries of the original sources are sited.
+
 This project is soley intended for reference and is a continual work-in-progress. Please raise an issue for any proposed corrections and a pull request for any proposed contributions.</b>
 
 ---
