@@ -7,7 +7,7 @@
 </p>
 
 <p>
-   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open to contributions.
+   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. The project is open for collaboration.
 
 ---
 
