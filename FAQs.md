@@ -1,6 +1,10 @@
 <h3>Project FAQs</h3>
 
-<h4>Do you own either of these lenses?</h4>
+<center>
+*** WORK IN PROGRESS ***
+</center>
+
+<!--- <h4>Do you own either of these lenses?</h4>
 
 No. I used to own a 28mm, but it fell into the sea a few years back (it’s yours, if you can find it; it’s down there somewhere, about a mile off the coast of Ireland 😉). I didn’t keep note of the serial number, unfortunately, so it isn’t included in the list (so, if you do dive down and grab it, be sure to send me the details 😉).
 
@@ -16,4 +20,4 @@ I'm also on the lookout for any further information about Nissin Koki Co. Ltd. P
 
 <h4>Why don't you refetence your sources?</h4>
 
-They have a very annoying habit of disappearing! Most of the info I've found has been gathered from online retail sites, and the listings are shortly  discarded as soon as the sales complete. 
+They have a very annoying habit of disappearing! Most of the info I've found has been gathered from online retail sites, and the listings are shortly  discarded as soon as the sales complete. -->
