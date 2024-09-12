@@ -15,4 +15,4 @@ Many of the sources are auction and sale listings, and they tend to disapear onc
 
 <h4>Fair enough, but why are there no photos?</h4>
 
-If I had the opportunity to take some, I would; I don't own any of the lenses listed here, and I've never had physical access to them. I don't hold on to anyone else's photos because I don't own the copyright.
+If I had the opportunity to take some, I would; I don't own any of the lenses listed here, and I've never had physical access to them. I don't use anyone else's photos because I obviously don't own the copyright.
