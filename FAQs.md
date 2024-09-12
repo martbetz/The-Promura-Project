@@ -11,7 +11,7 @@ In short, as much information as you're willing and able to share; however, plea
 
 <h4>Why are there so few links to original sources?</h4>
 
-Many of the sources are auction and sale listings, and they tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions. As a next-best solution, then, I try to present all the important bits using detailed and accurate summaries.
+Many of the sources are auction and sale listings, and they tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions. As an alternative, then, I try to present all the important stuff using detailed and accurate summaries (doing so takes time, though, so I throw myself down on your patience).
 
 <!--- <h4>Do you own either of these lenses?</h4>
 
