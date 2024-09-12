@@ -46,16 +46,16 @@ This project is soley intended for reference and is a continual work-in-progress
 |324487|Canon&nbsp;(FD)|Details retrieved from aution listing|🇬🇧 GBR|
 |327698¹|Minolta&nbsp;(MD)¹|Details retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|[Details](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) retrieved from database&nbsp;listing|​🇺🇸​ USA|
-|333644|Konica&nbsp;(K/AR)¹|Details retrieved from auction&nbsp;listing|🇺🇸​ USA|
+|333644|Konica&nbsp;(K/AR)¹|[Details](https://www.ebay.ca/itm/276431953969) retrieved from auction&nbsp;listing|🇺🇸​ USA|
 |333694|Pentax&nbsp;(PK)|Details retrieved from auction&nbsp;listing|🇬🇧 GBR|
-|333772|Canon&nbsp;(FD)|Details retrieved from auction&nbsp;listing|🇬🇧 GBR
+|333772|Canon&nbsp;(FD)|[Details retrieved from auction&nbsp;listing|🇬🇧 GBR
 |340614|Minolta&nbsp;(MD)|Details retrieved from auction&nbsp;listing|🇦🇺 AUS|
-|345305|Pentax&nbsp;(PK)¹|Details retrieved from auction&nbsp;listing|🇯🇵 JPN|
+|345305|Pentax&nbsp;(PK)¹|[Details](https://aucview.aucfan.com/yahoo/d115575976/) retrieved from auction&nbsp;listing|🇯🇵 JPN|
 |347323|Praktica&nbsp;(M42)¹|Details retrieved from auction&nbsp;listing|🇦🇺 AUS|
-|351394|Petax&nbsp;(PK)|Details retrieved from sale&nbsp;listing|🇬🇧 GBR
+|351394|Petax&nbsp;(PK)|[Details](https://soperfectimages.co.uk/camerasforsale/pentax/auto-promura-28mm-f28-pk-fit-351394/) retrieved from sale&nbsp;listing|🇬🇧 GBR
 |354792|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
-|356577|Olympus&nbsp;(OM)¹|Details retrieved from sales&nbsp;listing|🇫🇮 FIN|
-|357832|Praktica&nbsp;(M42)|Details retrieved from auction&nbsp;listing²|🇬🇧 GBR|
+|356577|Olympus&nbsp;(OM)¹|[Details](https://kamerastore.com/products/promura-28mm-f2-8-c-p-hi-lux-auto-mc-olympus-om) retrieved from sales&nbsp;listing|🇫🇮 FIN|
+|357832|Praktica&nbsp;(M42)|[Details](https://www.ebay.co.uk/itm/186611675919?siteid=3&customid=&toolid=10001) retrieved from auction&nbsp;listing²|🇬🇧 GBR|
 |358615|Minolta&nbsp;(MD)¹|[Details](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/) retrieved from auction&nbsp;listing|🇲🇾 MYS|
 
 </center>
