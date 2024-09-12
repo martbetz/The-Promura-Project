@@ -1,9 +1,5 @@
 <h3>Project FAQs</h3>
-
-Where possible, links are provided to original sources; where original sources are no longer available (whether in full or in part), alternative detailed summaries of the original sources are sited.
-
 <br>
-
 <center>
 *** THIS DOCUMENT IS A WORK IN PROGRESS ***
 </center>
