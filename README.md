@@ -75,7 +75,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |213172|Pentax&nbsp;(PK)<sup>¹|Details retrieved from sale&nbsp;listing|🇿🇦 ZAF|
 |217049|Canon&nbsp;(FD)|Details retrieved from auction&nbsp;listing|🇺🇸 USA|
 |218359|Nikon&nbsp;(NIK)¹|Details retrieved from auction&nbsp;listing|🇺🇸​ USA|
-|218493|Pentax&nbsp;(PK)|Details retrieved from database&nbsp;listing¹|🇺🇸​ USA|
+|218493|Pentax&nbsp;(PK)|[Details](https://www.pentaxforums.com/userreviews/auto-promura-20mm-f2-8.html) retrieved from database&nbsp;listing¹|🇺🇸​ USA|
 
 </center>
 
