@@ -1,10 +1,13 @@
 <h3>Project FAQs</h3>
 
+Where possible, links are provided to original sources; where original sources are no longer available (whether in full or in part), alternative detailed summaries of the original sources are sited.
+
+<br>
+
 <center>
-*** WORK IN PROGRESS ***
+*** THIS DOCUMENT IS A WORK IN PROGRESS ***
 </center>
 
-Where possible, links are provided to original sources; where original sources are no longer available {in full or in part), detailed summaries of the original sources are sited.
 
 <!--- <h4>Do you own either of these lenses?</h4>
 
