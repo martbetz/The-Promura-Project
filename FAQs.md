@@ -7,6 +7,10 @@ In short, as much information as you're willing and able to share; however, plea
 - a photo of the front of the lens that clearly displays the full description and serial number engraved on the faceplate
 - a photo of the rear of the lens that clearly evidences the mount type
 
+<h4>Why are there so few links to original sources?</h4>
+
+Many of the sources are auction and sale listings, and they tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be mindful of copyright and data protection. As a next-best solution, I try to present all the important bits using detailed and accurate summaries.
+
 <br>
 <center>
 *** THIS DOCUMENT IS A WORK IN PROGRESS ***
