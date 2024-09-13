@@ -16,3 +16,7 @@ Many of the sources are auction and sale listings, and they often tend to disape
 <h4>Fair enough, but why are there no photos?</h4>
 
 If I had the opportunity to take some, I would; I don't own any of the lenses listed here, and I've never had physical access to them. I don't use anyone else's photos because I obviously don't own the copyright.
+
+<h4>What's with the "Lacale/Location?"</h4>
+
+Where possible, I try to include the last known location of the lenses (usually gathered from auction details or the address of the seller). Once the lenses change hands, and if they pop up for sale in the future, I'll update the history accordingly.
