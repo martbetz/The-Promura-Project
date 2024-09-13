@@ -1,7 +1,5 @@
 <h3>Project FAQs</h3>
 
-*** THIS DOCUMENT IS (STILL) A WORK IN PROGRESS ***
-
 <h4>I would like to add a lens to the database. What do you need?</h4>
 
 In short, as much information as you're willing and able to share; however, please consider the following as an absolute minimum requirement:
@@ -19,4 +17,4 @@ If I had the opportunity to take some, I would; I don't own any of the lenses li
 
 <h4>What's with the "Lacale/Location?"</h4>
 
-Where possible, I try to include the last known location of the lenses (usually gathered from auction details or the address of the seller). Once the lenses change hands, and if they pop up for sale in the future, I'll update the history accordingly.
+Where possible, I try to include the last known location of all lenses (usually gathered from auction details or the address of the seller). Once the lenses change hands, and if they pop up for sale in the future, I'll update the history accordingly.
