@@ -57,7 +57,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |351394|Petax&nbsp;(PK)|[Details](https://soperfectimages.co.uk/camerasforsale/pentax/auto-promura-28mm-f28-pk-fit-351394/) retrieved from sale&nbsp;listing|🇬🇧 GBR
 |354792|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
 |356577|Olympus&nbsp;(OM)¹|[Details](https://kamerastore.com/products/promura-28mm-f2-8-c-p-hi-lux-auto-mc-olympus-om) retrieved from sales&nbsp;listing|🇫🇮 FIN|
-|357832|Praktica&nbsp;(M42)|[Details](https://www.ebay.co.uk/itm/186611675919?siteid=3&customid=&toolid=10001) retrieved from auction&nbsp;listing²|🇬🇧 GBR|
+|357832|Praktica&nbsp;(M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/357832.md) retrieved from auction&nbsp;listing²|🇬🇧 GBR|
 |358615|Minolta&nbsp;(MD)¹|[Details](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/) retrieved from auction&nbsp;listing|🇲🇾 MYS|
 
 </center>
