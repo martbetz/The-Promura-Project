@@ -44,7 +44,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |292593|UNKNOWN|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/292593.md) retrieved from sale listing|🇦🇺 AUS|
 |298996|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/298996.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |307776|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
-|307844|Cantax/Yashica&nbsp;(C/Y)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/357832.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
+|307844|Cantax/Yashica&nbsp;(C/Y)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/307844.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |324487|Canon&nbsp;(FD)|Details retrieved from aution listing|🇬🇧 GBR|
 |327698*|Minolta&nbsp;(MD)*|Details retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|[Details](https://lens--club-ru.translate.goog/lenses/item/c_6743.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) retrieved from database&nbsp;listing|​🇺🇸​ USA|
