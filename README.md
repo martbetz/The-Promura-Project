@@ -48,7 +48,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |324487|Canon&nbsp;(FD)|Details retrieved from aution listing|🇬🇧 GBR|
 |327698*|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/327698.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/330260.md) retrieved from database&nbsp;listing|​🇺🇸​ USA|
-|333644|Konica&nbsp;(K/AR)*|[Details](https://www.ebay.ca/itm/276431953969) retrieved from auction&nbsp;listing|🇺🇸​ USA|
+|333644|Konica&nbsp;(K/AR)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333644.md) retrieved from auction&nbsp;listing|🇺🇸​ USA|
 |333694|Pentax&nbsp;(PK)|Details retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |333772|Canon&nbsp;(FD)|[Details retrieved from auction&nbsp;listing|🇬🇧 GBR
 |340614|Minolta&nbsp;(MD)|Details retrieved from auction&nbsp;listing|🇦🇺 AUS|
