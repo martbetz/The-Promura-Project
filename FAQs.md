@@ -9,7 +9,7 @@ In short, as much information as you're willing and able to share; however, plea
 
 <h4>Where can I find reviews of these lenses?</h4>
 
-There are some helpful [Auto-Promura 28mm C.P. Hi-Lux MC reviews on pentaxforums.com](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html). As for the Auto-Promura 28mm C.P. Hi-Lux MC, this thing is so rare that I've yet to find any — please get in touch if you find some!
+There are some helpful [Auto-Promura 28mm C.P. Hi-Lux MC reviews on pentaxforums.com](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html). As for the Auto-Promura 28mm C.P. Hi-Lux MC, this thing is so rare that I've yet to find any — _please get in touch if you know of some!_
 
 <h4>Why are there no links to some of the original sources?</h4>
 
