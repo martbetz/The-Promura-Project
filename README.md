@@ -58,7 +58,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |354792|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
 |356577|Olympus&nbsp;(OM)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/356577.md) retrieved from sales&nbsp;listing|🇫🇮 FIN|
 |357832|Praktica&nbsp;(M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/357832.md) retrieved from auction&nbsp;listing*|🇬🇧 GBR|
-|358615|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/358615.md) retrieved from auction&nbsp;listing|🇲🇾 MYS|
+|358615|Minolta&nbsp;(MD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/358615.md) retrieved from auction&nbsp;listing|🇲🇾 MYS|
 
 </center>
 
