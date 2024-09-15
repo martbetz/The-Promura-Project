@@ -7,6 +7,10 @@ In short, as much information as you're willing and able to share; however, plea
 - a photo of the front of the lens that clearly displays the full description and serial number engraved on the faceplate
 - a photo of the rear of the lens that clearly evidences the mount type
 
+<h4>Where can I find reviews of these lenses?</h4>
+
+There are some helpful [Auto-Promura 28mm C.P. Hi-Lux MC reviews on pentaxforums.com](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html). As for the Auto-Promura 28mm C.P. Hi-Lux MC, this thing is so rare that I've yet to find any — please get in touch if you find some!
+
 <h4>Why are there no links to some of the original sources?</h4>
 
 Many of the sources are auction and sale listings, and they often tend to disapear once the lenses move on. In an ideal world, everything would be archived; however, one has to be considerate of data use and copyright restrictions. Having said all this, I still record the important stuff within the detailed summaries (doing so takes time, though, so I throw myself down on your patience).
