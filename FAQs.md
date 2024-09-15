@@ -1,6 +1,14 @@
-<h3>Project FAQs</h3>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
+</p>
 
-<h3>Why did you start this project?</h3>
+<p align="center">
+Frequently Asked Questions
+</p>
+
+---
+
+<h4>Why did you start this project?</h4>
 
 For a few different reasons:
 
