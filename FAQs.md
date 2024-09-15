@@ -7,7 +7,7 @@ For a few different reasons:
 1. The Auto-Promura 28mm C.P. Hi-Lux MC appears to have earned an excellent reputation
 2. The lens is very rare
 3. No one seems to know much about the lens or the manufacturer
-4. While researching the Auto-Promura 28mm C.P. Hi-Lux MC, I came accross the Auto-Promura 20mm C.P. Hi-Lux MC — and this lens is so rare that it's vertually extinct
+4. While researching the Auto-Promura 28mm C.P. Hi-Lux MC, I came accross the Auto-Promura 20mm C.P. Hi-Lux MC — _and this lens is so rare that it's vertually extinct_
 5. I apparently have too much time on my hands
 
 <h4>I would like to add a lens to the database. What do you need?</h4>
