@@ -10,16 +10,16 @@ For a few different reasons:
 4. While researching the Auto-Promura 28mm C.P. Hi-Lux MC, I came accross the Auto-Promura 20mm C.P. Hi-Lux MC — _and this lens is so rare that it's vertually extinct_
 5. I apparently have too much time on my hands
 
+<h4>Where can I find reviews of these lenses?</h4>
+
+There are some helpful [Auto-Promura 28mm C.P. Hi-Lux MC reviews on pentaxforums.com](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html). As for the Auto-Promura 28mm C.P. Hi-Lux MC, this thing is so rare that I've yet to find any — _please get in touch if you know of some!_
+
 <h4>I would like to add a lens to the database. What do you need?</h4>
 
 In short, as much information as you're willing and able to share; however, please consider the following as an absolute minimum requirement:
 
 - a photo of the front of the lens that clearly displays the full description and serial number engraved on the faceplate
 - a photo of the rear of the lens that clearly evidences the mount type
-
-<h4>Where can I find reviews of these lenses?</h4>
-
-There are some helpful [Auto-Promura 28mm C.P. Hi-Lux MC reviews on pentaxforums.com](https://www.pentaxforums.com/userreviews/auto-promura-28mm-2-8-c-p-hi-lux-mc.html). As for the Auto-Promura 28mm C.P. Hi-Lux MC, this thing is so rare that I've yet to find any — _please get in touch if you know of some!_
 
 <h4>Why are there no links to some of the original sources?</h4>
 
