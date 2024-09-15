@@ -4,11 +4,11 @@
 
 For a few different reasons:
 
-1. The Auto-Promura 28mm C.P. Hi-Lux MC appears to have earned an excellent reputation
-2. The lens is very rare
-3. No one seems to know much about the lens or the manufacturer
-4. While researching the Auto-Promura 28mm C.P. Hi-Lux MC, I stumbled upon the Auto-Promura 20mm C.P. Hi-Lux MC 
-5. I apparently have too much time on my hands
+1. the Auto-Promura 28mm C.P. Hi-Lux MC appears to have earned an excellent reputation
+2. the lens is very rare
+3. no one seems to know much about the lens or the manufacturer
+4. while researching the Auto-Promura 28mm C.P. Hi-Lux MC, I stumbled upon the Auto-Promura 20mm C.P. Hi-Lux MC 
+5. apparently, I've too much time on my hands
 
 <h4>Where can I find reviews of these lenses?</h4>
 
