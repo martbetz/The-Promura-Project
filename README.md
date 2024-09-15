@@ -77,7 +77,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |213172|Pentax&nbsp;(PK)<sup>*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/213172.md) retrieved from sale&nbsp;listing|🇿🇦 ZAF|
 |217049|Canon&nbsp;(FD)|Details retrieved from auction&nbsp;listing|🇺🇸 USA|
 |218359|Nikon&nbsp;(NIK)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/218359.md) retrieved from auction&nbsp;listing|🇺🇸​ USA|
-|218493|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/218493.md) retrieved from database&nbsp;listing*|🇺🇸​ USA|
+|218493|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/218493.md) retrieved from database&nbsp;listing|🇺🇸​ USA|
 
 </center>
 
