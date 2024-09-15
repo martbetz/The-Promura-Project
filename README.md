@@ -54,11 +54,11 @@ This project is soley intended for reference and is a continual work-in-progress
 |340614|Minolta&nbsp;(MD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/340614.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |345305|Pentax&nbsp;(PK)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/345305.md) retrieved from auction&nbsp;listing|🇯🇵 JPN|
 |347323|Praktica&nbsp;(M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/347323.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
-|351394|Petax&nbsp;(PK)|[Details](https://soperfectimages.co.uk/camerasforsale/pentax/auto-promura-28mm-f28-pk-fit-351394/) retrieved from sale&nbsp;listing|🇬🇧 GBR
-|354792|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
-|356577|Olympus&nbsp;(OM)*|[Details](https://kamerastore.com/products/promura-28mm-f2-8-c-p-hi-lux-auto-mc-olympus-om) retrieved from sales&nbsp;listing|🇫🇮 FIN|
+|351394|Petax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/351394.md) retrieved from sale&nbsp;listing|🇬🇧 GBR
+|354792|Canon&nbsp;(FD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/354792.md) retrieved from auction listing|🇬🇧 GBR|
+|356577|Olympus&nbsp;(OM)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/356577.md) retrieved from sales&nbsp;listing|🇫🇮 FIN|
 |357832|Praktica&nbsp;(M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/357832.md) retrieved from auction&nbsp;listing*|🇬🇧 GBR|
-|358615|Minolta&nbsp;(MD)*|[Details](https://www.carousell.com.my/p/auto-promura-28mm-f2-8-macro-lens-minolta-md-mount-35230197/) retrieved from auction&nbsp;listing|🇲🇾 MYS|
+|358615|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/358615.md) retrieved from auction&nbsp;listing|🇲🇾 MYS|
 
 </center>
 
@@ -74,10 +74,10 @@ This project is soley intended for reference and is a continual work-in-progress
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:---:|------|------|
-|213172|Pentax&nbsp;(PK)<sup>*|[Details](https://vintagecameradeals.co.za/Auto-PROMURA-C.P-Hi-Lux-MC-2.8-f=20mm-wide-angle-SLR-film-camera-lens-2.8-20mm-MINT-box) retrieved from sale&nbsp;listing|🇿🇦 ZAF|
-|217049|Canon&nbsp;(FD)|Details retrieved from auction&nbsp;listing|🇺🇸 USA|
-|218359|Nikon&nbsp;(NIK)*|Details retrieved from auction&nbsp;listing|🇺🇸​ USA|
-|218493|Pentax&nbsp;(PK)|[Details](https://www.pentaxforums.com/userreviews/auto-promura-20mm-f2-8.html) retrieved from database&nbsp;listing*|🇺🇸​ USA|
+|213172|Pentax&nbsp;(PK)<sup>*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/213172.md) retrieved from sale&nbsp;listing|🇿🇦 ZAF|
+|217049|Canon&nbsp;(FD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/217049.md) retrieved from auction&nbsp;listing|🇺🇸 USA|
+|218359|Nikon&nbsp;(NIK)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/218359.md) retrieved from auction&nbsp;listing|🇺🇸​ USA|
+|218493|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/218493.md) retrieved from database&nbsp;listing*|🇺🇸​ USA|
 
 </center>
 
