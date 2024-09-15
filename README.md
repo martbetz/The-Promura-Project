@@ -1,4 +1,4 @@
-<h1><center></center>The Promura Project</center></h1>
+<!-- The Promura Project -->
 
 <!-- An information resource for two very obscure and rare camera lenses. -->
 
