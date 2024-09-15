@@ -2,12 +2,8 @@
    <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
 </p>
 
-<p align="center">
-Frequently Asked Questions
-</p>
-
-
-https://github.com/martbetz/The-Promura-Project/tree/main
+<p>
+   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. Please visit the <a href="https://github.com/martbetz/The-Promura-Project/tree/main">Github repo</a>.
 
 ---
 
@@ -15,11 +11,11 @@ https://github.com/martbetz/The-Promura-Project/tree/main
 
 For a few different reasons:
 
-1. the Auto-Promura 28mm C.P. Hi-Lux MC appears to have earned an excellent reputation
-2. the lens is very rare
-3. no one seems to know much about the lens or the manufacturer
-4. while researching the Auto-Promura 28mm C.P. Hi-Lux MC, I stumbled upon the Auto-Promura 20mm C.P. Hi-Lux MC 
-5. apparently, I've too much time on my hands
+- the Auto-Promura 28mm C.P. Hi-Lux MC appears to have earned an excellent reputation
+- the lens is very rare
+- no one seems to know much about the lens or the manufacturer
+- while researching the Auto-Promura 28mm C.P. Hi-Lux MC, I stumbled upon the Auto-Promura 20mm C.P. Hi-Lux MC 
+- apparently, I've too much time on my hands
 
 <h4>Where can I find reviews of these lenses?</h4>
 
