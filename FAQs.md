@@ -28,9 +28,9 @@ In short, as much information as you're willing and able to share; however, plea
 - a photo of the front of the lens that clearly displays the full description and serial number engraved on the faceplate
 - a photo of the rear of the lens that clearly evidences the mount type
 
-<h4>That lens looks like a Spiratone/Soligor/Joeblogs lens that I have! Can I send you the details?</h4>
+<h4>That lens looks exactly like my Spiratone/Soligor/Bubblescrump! Can I send you the details?</h4>
 
-You can, but I won't be using them without supporting evidence — my friend's sister's husband looks like Elvis, but I don't think he'll be handed the keys to Graceland any time soon.
+You can, but I won't be using them without supporting evidence — my friend's sister's husband looks exactly  like Elvis, but he won't be moving into Graceland any time soon.
 
 <h4>Why are there no links to some of the original sources?</h4>
 
