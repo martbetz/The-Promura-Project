@@ -53,6 +53,9 @@ This project is soley intended for reference and is a continual work-in-progress
 |333772|Canon&nbsp;(FD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333772.md) retrieved from auction&nbsp;listing|🇬🇧 GBR
 |340614|Minolta&nbsp;(MD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/340614.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |345305|Pentax&nbsp;(PK)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/345305.md) retrieved from auction&nbsp;listing|🇯🇵 JPN|
+
+|345279|Pentax&nbsp;(PK)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/345279.md) retrieved from sale&nbsp;listing|🇮🇱 ISR|
+
 |347323|Praktica&nbsp;(M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/347323.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |351394|Petax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/351394.md) retrieved from sale&nbsp;listing|🇬🇧 GBR
 |354792|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
