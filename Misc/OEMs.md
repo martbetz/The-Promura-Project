@@ -19,15 +19,10 @@ In the context of the 1970s and 1980s vintage lens boom, an Original Equipment M
 
 #### ​How the OEM Model Worked
 
-- ##### ​Design & Build
-Nissin Koki designed and manufactured the actual optical glass, mechanical parts, and metal lens barrels inside their factories in Japan.
+- **Design & Build**: Nissin Koki designed and manufactured the actual optical glass, mechanical parts, and metal lens barrels inside their factories in Japan
 
-##### ​Rebranding
+- **​Rebranding**: independent marketing companies (such as Promura, Vivitar, or Soligor) often owned the brand names and distribution networks, but didn't own optical factories. They contracted OEMs like Nissin Koki to build lenses for them
 
-Independent marketing companies (such as Promura, Vivitar, or Soligor) often owned the brand names and distribution networks, but didn't own optical factories. They contracted OEMs like Nissin Koki to build lenses for them.
-
-##### ​Custom Mounts
-
-Nissin Koki would stamp the marketer's brand name onto the lens body and fit it with whatever camera mount the client needed (such as Pentax K, Minolta MD, or Canon FD).
+- **​Custom Mounts**: Nissin Koki would stamp the marketer's brand name onto the lens body and fit it with whatever camera mount the client needed (such as Pentax K, Minolta MD, or Canon FD)
 
 ​This system allowed a massive wave of affordable third-party lenses to flood the global market, giving consumers lower-cost alternatives to first-party camera brand lenses.
