@@ -8,6 +8,15 @@
 
 ---
 
+<b>This project is an excersise in ongoing factual research and data collection; as such, the following information should only be considered as accurate as the latest evidence suggests. 
+
+Where possible, links are provided to original sources; where original sources are no longer available (whether in full or in part), detailed summaries of the original sources remain sited.
+
+This project is soley intended for reference and is a continual work-in-progress. Please raise an issue for any proposed corrections and a pull request for any proposed contributions.</b>
+
+---
+
+
 ### Overview of Nissin Koki Co. Ltd.
 
 Nissin Koki Co. Ltd. was a Japanese optical and precision manufacturing company that operated primarily as an Original Equipment Manufacturer (OEM) during the vintage lens boom of the 1970s and 1980s. 
