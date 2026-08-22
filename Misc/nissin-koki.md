@@ -1,3 +1,13 @@
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/110672536/183131595-afeb1dec-1c84-436c-9a50-90468f9ec3ec.png">
+</p>
+
+<p>
+   The objective of <b>The Promura Project</b> is to collate as much information as possible about two very obscure and rare camera lenses: the <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> and the <b>Auto-Promura 20mm C.P. Hi-Lux MC</b>. Please visit the <a href="https://github.com/martbetz/The-Promura-Project/tree/main">Github repo</a>.
+
+---
+
 ### Overview of Nissin Koki Co. Ltd
 
 Nissin Koki Co. Ltd. was a Japanese optical and precision manufacturing company that operated primarily as an Original Equipment Manufacturer (OEM) during the vintage lens boom of the 1970s and 1980s. 
