@@ -13,7 +13,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 ---
 
-### Overvirew of Original Equipment Manufacturers
+### Overview of Original Equipment Manufacturers
 
 In the context of the 1970s and 1980s vintage lens boom, an Original Equipment Manufacturer (OEM) like Nissin Koki was the hidden factory behind the brand name on the lens.
 
