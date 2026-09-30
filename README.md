@@ -41,7 +41,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:----:|------|-------|
-289162|Practika (M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/289162.md) retrieved from sale listing|🇦🇺 AUS|
+289162|Praktica (M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/289162.md) retrieved from sale listing|🇦🇺 AUS|
 |292593|UNKNOWN|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/292593.md) retrieved from sale listing|🇦🇺 AUS|
 |298996|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/298996.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |307776|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
