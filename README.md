@@ -37,10 +37,11 @@ This project is soley intended for reference and is a continual work-in-progress
 
 <center>
 
-<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses (22)</h3>
+<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses (23)</h3>
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:----:|------|-------|
+289162|UNKNOWN|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/289162.md) retrieved from sale listing|🇦🇺 AUS|
 |292593|UNKNOWN|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/292593.md) retrieved from sale listing|🇦🇺 AUS|
 |298996|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/298996.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |307776|Canon&nbsp;(FD)|Details retrieved from auction listing|🇬🇧 GBR|
