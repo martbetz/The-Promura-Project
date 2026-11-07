@@ -55,7 +55,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |333644|Konica&nbsp;(K/AR)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333644.md) retrieved from auction&nbsp;listing|🇺🇸​ USA|
 |333694|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333694.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |333772|Canon&nbsp;(FD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333772.md) retrieved from auction&nbsp;listing|🇬🇧 GBR
-|340240|Olympus&nbsp;(OM)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/340240.md) retrieved from auction listing|🇬🇧 GBR|
+|340420|Olympus&nbsp;(OM)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/340420.md) retrieved from auction listing|🇬🇧 GBR|
 |324487|Minolta&nbsp;(MD)|Details retrieved from aution listing|🇬🇧 GBR|
 |340614|Minolta&nbsp;(MD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/340614.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |345279|Pentax&nbsp;(PK)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/345279.md) retrieved from sale&nbsp;listing|🇮🇱 ISR|
