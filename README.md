@@ -37,7 +37,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 <center>
 
-<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses (25)</h3>
+<h3>Identified <b>Auto-Promura 28mm C.P. Hi-Lux MC</b> Lenses (26)</h3>
 
 |SERIAL|MOUNT|SOURCE|LOCALE|
 |------|:----:|------|-------|
@@ -52,6 +52,7 @@ This project is soley intended for reference and is a continual work-in-progress
 |324487|Canon&nbsp;(FD)|Details retrieved from aution listing|🇬🇧 GBR|
 |327698*|Minolta&nbsp;(MD)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/327698.md) retrieved from auction&nbsp;listing|🇦🇺 AUS|
 |330260|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/330260.md) retrieved from database&nbsp;listing|​🇺🇸​ USA|
+|333621|Praktica&nbsp;(M42)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333621md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |333644|Konica&nbsp;(K/AR)*|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333644.md) retrieved from auction&nbsp;listing|🇺🇸​ USA|
 |333694|Pentax&nbsp;(PK)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333694.md) retrieved from auction&nbsp;listing|🇬🇧 GBR|
 |333772|Canon&nbsp;(FD)|[Details](https://github.com/martbetz/The-Promura-Project/blob/main/DATA/333772.md) retrieved from auction&nbsp;listing|🇬🇧 GBR
